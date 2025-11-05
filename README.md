@@ -23,7 +23,7 @@ Traditional rental platforms prioritize landlords and agents. **We prioritize re
 
 ## 🚀 Features
 
-### Current (MVP - November 2025)
+### Current (MVP 2026)
 - 🔍 Browse rental listings without signup
 - 📱 Mobile-responsive design with bottom navigation
 - 🔐 Secure authentication (email/password + magic links)
@@ -166,26 +166,26 @@ We welcome contributions from the community! Here's how you can help:
 
 ## 📊 Roadmap
 
-### Phase 1: MVP ✅ (November 2025)
+### Phase 1: MVP ✅ (2026)
 - [x] User authentication
 - [x] Browse & search listings
 - [x] Post listings with images
 - [x] Mobile-responsive design
 - [x] Deploy to production
 
-### Phase 2: Verification (December 2025)
+### Phase 2: Verification (2026)
 - [ ] Tenant verification badges
 - [ ] Landlord verification workflow
 - [ ] Automated moderation queue
 - [ ] Email notifications
 
-### Phase 3: Community (Q1 2026)
+### Phase 3: Community (2026)
 - [ ] Ratings & reviews
 - [ ] Q&A on listings
 - [ ] Neighborhood guides
 - [ ] User reputation system
 
-### Phase 4: Monetization (Q2 2026)
+### Phase 4: Monetization (2026)
 - [ ] Featured listings
 - [ ] Premium accounts
 - [ ] Ad placements
